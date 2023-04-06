@@ -9,10 +9,10 @@ import (
 )
 
 const (
-	BASE_URI         = "https://chat.openai.com"
-	AUTH_SESSION_URI = "https://chat.openai.com/api/auth/session"
-	CONVERSATION_URI = "https://chat.openai.com/backend-api/conversation"
-	GET_MODELS_URI   = "https://chat.openai.com/backend-api/models"
+	BASE_URI         = "https://www.happison.com"
+	AUTH_SESSION_URI = "https://www.happison.com/api/auth/session"
+	CONVERSATION_URI = "https://www.happison.com/backend-api/conversation"
+	GET_MODELS_URI   = "https://www.happison.com/backend-api/models"
 	USER_AGENT       = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 	EOF_TEXT         = "[DONE]"
 )
