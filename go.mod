@@ -1,4 +1,4 @@
-module github.com/chatgp/chatgpt-go
+module github.com/yangkequn/chatgpt-go
 
 go 1.18
 
